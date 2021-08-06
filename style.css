@@ -1,0 +1,18 @@
+.div_menu, .menu{
+   background-color: black;
+   color: white;
+}
+
+.footer, .footer-alamat {
+   background-color: black;
+   color: white;
+   text-align: center;
+}
+
+.slider-div {
+   text-align: center;
+}
+
+p {
+   text-align: justify;
+}
